@@ -3,6 +3,10 @@
 Submission akhir kelas **Belajar Membuat Aplikasi Web dengan React** (Dicoding).
 Dibangun dengan React 18, React Router v6, Vite, dan Notes API Dicoding.
 
+## Preview
+
+![Login](docs/home.png)
+
 ## Menjalankan proyek
 
 ```bash
